@@ -1,4 +1,4 @@
-FROM openjdk:11-jre-slim
+FROM openjdk:11-ea-17-jre-slim
 
 # Add application metadata
 LABEL maintainer="Chaitanya"
